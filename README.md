@@ -3,7 +3,7 @@
 Dev em constante evolução, curioso por natureza e movido a resolver problemas com código. Tenho 18 anos, sou estudante de programação na EPA (Escola Profissional de Aveiro) e estou a aprender HTML, CSS, JavaScript, Python e C.
 
 * 🌱 Atualmente estou a fazer um curso de Python: **[Python 3 do Zero ao Avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)**
-* ⚡ Fun fact: Não era para ter entrado no curso de programação.
+* ⚡ Fun fact: gosto de ladybug :D
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
