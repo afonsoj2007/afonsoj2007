@@ -1,5 +1,7 @@
-# Afonso Jesus 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=A020F0"/>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&width=435&lines=Bem+vindo+ao+meu+perfil" alt="Typing SVG" />
+</div>
 Olá, sou o Afonso, tenho 18 anos sou um Dev em evolução e estudante de programação na Escola Profissional de Aveiro (EPA).
 
 Atualmente estou a aprender:
