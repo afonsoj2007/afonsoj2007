@@ -4,13 +4,7 @@
 </div>
 Olá, sou o Afonso, tenho 18 anos, sou um Developer em evolução e estudante de programação na Escola Profissional de Aveiro (EPA).
 
-Atualmente estou a aprender:
-
-- HTML, CSS e JavaScript  
-- Python  
-- C  
-
-Neste momento estou a tirar um curso de Python para melhorar os meus conhecimentos nesta linguagem.
+<br>Neste momento estou a tirar um curso de Python para melhorar os meus conhecimentos nesta linguagem.</br>
 https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 
 O que podes encontrar nos meus repositórios:
